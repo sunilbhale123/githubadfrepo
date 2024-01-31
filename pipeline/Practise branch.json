@@ -1,0 +1,17 @@
+{
+	"name": "Practise branch",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait10seconds",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 10
+				}
+			}
+		],
+		"annotations": []
+	}
+}
